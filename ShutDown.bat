@@ -1,3 +1,2 @@
 @echo off
-cd "C:\Windows\System32"
-start SlideToShutDown.exe
+start C:\Windows\System32\SlideToShutDown.exe
